@@ -56,6 +56,7 @@
 ### 작업 내용 (개발 일지)
 ```
 - 표준화 엑셀파일 작성 >> 헤더 밑 텍스트는 어느 컴포넌트에 넣을지 고민중.
+  https://docs.google.com/spreadsheets/d/1hqgrUexgHbNENF7PZTNq84ZXRMZQ4Gjmraw0LIF5APk/edit#gid=184466690
 
 - 배너 이미지 제작 1 >> 기존 soldout 홈페이지에 있는 어바웃 페이지에서 영감을 받아 제작.
 
