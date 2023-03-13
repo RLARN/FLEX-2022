@@ -9,8 +9,7 @@
  
 - 김대건 (팀원-백앤드)
 ```
-- 졸업작품 소개 사이트 : http://asq.kr/?i=yAykGMuLl
-- 포트폴리오 소개 사이트 : URL
+- 작업 Git : https://github.com/RLARN/FLEX
 ---
 
 ## [졸업 작품 소개]
